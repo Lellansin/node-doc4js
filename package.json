@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Lellansin/node-doc4js/issues"
   },
-  "homepage": "https://github.com/Lellansin/node-doc4js#readme"
+  "homepage": "https://github.com/Lellansin/node-doc4js#readme",
+  "dependencies": {
+    "glob": "^7.0.3",
+    "mkdirp": "^0.5.1"
+  }
 }
