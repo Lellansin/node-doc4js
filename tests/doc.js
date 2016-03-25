@@ -7,5 +7,11 @@ if (false) {
 
 if (true) {
   var file = '/Users/Lellansin/Documents/github/perf-web-server/src/apis/alarm.js';
+  var txt = doc.formatFile(file);
+  console.log(txt);
+}
+
+if (false) {
+  var file = '/Users/Lellansin/Documents/github/perf-web-server/src/apis/alarm.js';
   console.log(doc.generate(file));
 }
