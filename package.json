@@ -1,6 +1,6 @@
 {
   "name": "doc4js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Doc toolkit.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lellansin/node-doc4js/issues"
+  },
+  "engines": {
+    "node": ">=4.3.1"
   },
   "homepage": "https://github.com/Lellansin/node-doc4js#readme",
   "dependencies": {
